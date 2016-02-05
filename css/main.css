@@ -1,0 +1,133 @@
+body {
+    background-image: url("../images/1.png");
+    font-size: 12px Arial, Tahoma, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+
+}
+
+
+h1 {
+    font-size: 50px;
+    padding-top: 14px;
+    padding-left: 15px;
+}
+h3 {
+    font-size: 25px;
+    color: #4d4d4d;
+    margin-bottom: 30px;
+}
+
+.b3radius {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+ #page_align {
+     width: 1000px;
+     margin: 30px auto;
+     background: #bababa;
+     overflow: hidden;
+ }
+.header {
+    background-image: url("../images/header.png");
+    padding: 7px;
+    height: 95px;
+    border-bottom: solid 25px #3c3c3c;
+}
+
+.sidebar {
+    height: auto;
+    width: 190px;
+    border-right: solid 1px #2ca02c;
+    float: left;
+    background: #bababa;
+}
+.sidebar_nav {
+
+}
+.ul {
+    list-style: circle;
+}
+.ul li {
+    line-height: 35px;
+    padding: 5px 5px;
+    border-bottom: solid 1px #808080;
+}
+.ul li:hover {
+    background: #c12e2a;
+}
+.ul li a {
+    margin-left: 25px;
+    color: #2a6496;
+    display: block; color: #2b542c;
+
+}
+.content {
+    background: #e0e0e0;
+    width: 808px;
+    float: right;
+    height: auto;
+
+}
+
+.c_qs {
+    height: 180px;
+    width: 650px;
+    color: #878787;
+    margin-left: 90px;
+    margin-top: 75px;
+    overflow: visible;
+}
+.c_qs p {
+    font-size: 14px;
+    color: #3c3c3c;
+}
+.c_qs ul {
+    float: right;
+}
+.c_qs ul li {
+    margin-left: 15px;
+    list-style: none;
+    float: left;
+}
+.c_qs textarea {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 500px;
+    height: auto;
+}
+.registration {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+.registration ul {
+    list-style: none;
+}
+.registration ul li textarea {
+    margin-right: 18px;
+    margin-bottom: 6px;
+
+}
+.podrob {
+    margin-top: 15px;
+    margin-left: 645px;
+}
+.podrob a {
+color: #3c3c3c;
+    font-size: 14px;
+}
+.clr {
+    clear: both;
+}
+.form {
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
